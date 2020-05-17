@@ -1,3 +1,7 @@
 hello world
 we love you
+<<<<<<< HEAD
 hey
+=======
+another update
+>>>>>>> 92797a0cc49eb57cc95831ad650b6b6d6bf64683
